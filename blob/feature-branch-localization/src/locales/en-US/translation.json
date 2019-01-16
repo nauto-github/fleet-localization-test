@@ -505,7 +505,7 @@
   "Fleet Name": "Fleet Name",
   "Cloud Region": "Cloud Region",
   "Health": "Health",
-  "This user has an administrative role, so no editting options are available. If you would like to limit this user's group-level access, remove them and invite them as a manager.": "This user has an administrative role, so no editting options are available. If you would like to limit this user's group-level access, remove them and invite them as a manager.",
+  "This user has an administrative role, so no editting options are available1. If you would like to limit this user's group-level access, remove them and invite them as a manager.": "This user has an administrative role, so no editting options are available. If you would like to limit this user's group-level access, remove them and invite them as a manager.",
   "Fleet ID": "Fleet ID",
   "Show the code": "Show the code",
   "Email the code": "Email the code",
